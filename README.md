@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="./img/Antikappa.png" alt="Smiley face" height="300" width="300">
 
-<!--
-**AntiKappa/AntiKappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+//This is a random code (no bully me :c)
 
-Here are some ideas to get you started:
+var AntiKappa = new Person("Discord_dev");
+var bcc = "Fist server Italia of programming (Discord Bots)";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if(AntiKappa === bcc){
+    console.log("disc.bot Coming soon!")
+    AntiKappa.happy = true;
+    AntiKappa.sad = false;
+
+}
+else {
+     console.log("Sad. F for AntiKappa")
+     AntiKappa.happy = false;
+     AntiKappa.sad = true;
+}
+
+//Ez code :)))
+```
