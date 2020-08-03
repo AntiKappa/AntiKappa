@@ -1,4 +1,4 @@
-<img src="Antikappa.png" alt="AntiKappa" height="700" width="500">
+<img src="Antikappa.png" alt="AntiKappa" height="400" width="600">
 
 ```js
 //This is a random code (no bully me :c)
