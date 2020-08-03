@@ -5,6 +5,14 @@
 var AntiKappa = new Person("Discord_dev");
 var bcc = "Fist server Italia of programming (Discord Bots)";
 
+/*
+INFORMATION
+*/
+var name = "Riccardo"; //sexy name 
+var city = "Milano, IT";
+var years = "idk";
+
+
 if(AntiKappa === bcc){
     console.log("disc.bot Coming soon!")
     AntiKappa.happy = true;
