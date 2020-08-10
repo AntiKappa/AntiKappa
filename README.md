@@ -8,7 +8,7 @@ var bcc = "Fist server Italia of programming (Discord Bots)";
 /*
 INFORMATION
 */
-var name = "Riccardo"; //sexy name 
+var name = "lol"; //sexy name 
 var city = "Milano, IT";
 var years = "idk";
 
